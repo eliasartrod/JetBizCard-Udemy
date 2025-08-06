@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">JetBizCard</string>
+    <string name="main_name">Eliasart Rodriguez</string>
+    <string name="title_android_programmer">Android Compose Programmer</string>
+    <string name="main_name_format">Name: %1$s</string>
 </resources>
